@@ -18,6 +18,7 @@ https://sondanielson.itch.io/gameboy-simple-rpg-tileset
 
 ---
 
+  The template is just coppied from the gbdk template_subfolder example.
   It is setup to use [clangd](https://clangd.llvm.org/) as a lsp and be beside [gbdk2020](https://github.com/gbdk-2020/gbdk-2020)
   e.g.: ```
           GameBoy
